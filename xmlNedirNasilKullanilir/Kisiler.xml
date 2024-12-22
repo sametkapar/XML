@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Başlık-->
+<kisiler>
+  <!--Root Element-->
+  <kisi id="2">
+    <adi>MEVLUUUUUUT</adi>
+    <soyadi>FINALOYUNCUSU</soyadi>
+  </kisi>
+  <kisi id="1965">
+    <adi>Samet</adi>
+    <soyadi>Kapar</soyadi>
+  </kisi>
+</kisiler>

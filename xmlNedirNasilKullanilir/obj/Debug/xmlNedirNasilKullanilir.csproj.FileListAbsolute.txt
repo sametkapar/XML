@@ -1,0 +1,7 @@
+C:\Users\KAPAR\source\repos\xmlNedirNasilKullanilir\xmlNedirNasilKullanilir\bin\Debug\xmlNedirNasilKullanilir.exe.config
+C:\Users\KAPAR\source\repos\xmlNedirNasilKullanilir\xmlNedirNasilKullanilir\bin\Debug\xmlNedirNasilKullanilir.exe
+C:\Users\KAPAR\source\repos\xmlNedirNasilKullanilir\xmlNedirNasilKullanilir\bin\Debug\xmlNedirNasilKullanilir.pdb
+C:\Users\KAPAR\source\repos\xmlNedirNasilKullanilir\xmlNedirNasilKullanilir\obj\Debug\xmlNedirNasilKullanilir.csproj.AssemblyReference.cache
+C:\Users\KAPAR\source\repos\xmlNedirNasilKullanilir\xmlNedirNasilKullanilir\obj\Debug\xmlNedirNasilKullanilir.csproj.CoreCompileInputs.cache
+C:\Users\KAPAR\source\repos\xmlNedirNasilKullanilir\xmlNedirNasilKullanilir\obj\Debug\xmlNedirNasilKullanilir.exe
+C:\Users\KAPAR\source\repos\xmlNedirNasilKullanilir\xmlNedirNasilKullanilir\obj\Debug\xmlNedirNasilKullanilir.pdb
